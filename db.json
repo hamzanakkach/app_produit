@@ -1,0 +1,97 @@
+{
+  "produits": [
+    {
+      "nom": "citronade",
+      "image": "nouveauP.jpg",
+      "prix": 3,
+      "quantite": 6,
+      "id": 4
+    },
+    {
+      "image": "nouveauP.jpg",
+      "nom": "Café",
+      "prix": 1.2,
+      "quantite": 6,
+      "id": 6
+    },
+    {
+      "image": "nouveauP.jpg",
+      "nom": "Goublet",
+      "prix": 0.2,
+      "quantite": 96,
+      "id": 7
+    },
+    {
+      "image": "nouveauP.jpg",
+      "nom": "Sucre",
+      "prix": 0.9,
+      "quantite": 0,
+      "id": 8
+    },
+    {
+      "image": "nouveauP.jpg",
+      "nom": "Lunette",
+      "prix": 300,
+      "quantite": 4,
+      "id": 9
+    }
+  ],
+  "panier": {
+    "id": 1,
+    "prods": []
+  },
+  "commande": [
+    {
+      "dateCommande": "2020-07-13T12:54:07.005Z",
+      "prixCommande": 0.4,
+      "prod": {
+        "image": "nouveauP.jpg",
+        "nom": "Goublet",
+        "prix": 0.2,
+        "quantite": 97,
+        "id": 7
+      },
+      "quantite": 2,
+      "id": 2
+    },
+    {
+      "dateCommande": "2020-07-12T21:55:40.967Z",
+      "prixCommande": 0.9,
+      "prod": {
+        "image": "nouveauP.jpg",
+        "nom": "Sucre",
+        "prix": 0.9,
+        "quantite": 0,
+        "id": 8
+      },
+      "quantite": 1,
+      "id": 3
+    },
+    {
+      "dateCommande": "2020-07-13T12:53:59.521Z",
+      "prixCommande": 300,
+      "prod": {
+        "image": "nouveauP.jpg",
+        "nom": "Lunette",
+        "prix": 300,
+        "quantite": 4,
+        "id": 9
+      },
+      "quantite": 1,
+      "id": 4
+    },
+    {
+      "dateCommande": "2020-07-13T12:54:04.138Z",
+      "prixCommande": 1.2,
+      "prod": {
+        "image": "nouveauP.jpg",
+        "nom": "Café",
+        "prix": 1.2,
+        "quantite": 6,
+        "id": 6
+      },
+      "quantite": 1,
+      "id": 5
+    }
+  ]
+}
